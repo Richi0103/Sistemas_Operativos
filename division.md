@@ -1,3 +1,6 @@
+#División en C con restas.
+
+´´´ C
 #include <stdio.h>
 
 double div (double n, double n2){
@@ -16,3 +19,4 @@ int main(){
 
     printf("Resultado: %f", r);
 }
+´´´
